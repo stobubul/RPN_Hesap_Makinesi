@@ -28,8 +28,8 @@ namespace RPN_Calculator
             if (string.IsNullOrWhiteSpace(input))
             {
                 // Boş ifade hatası
-                Console.WriteLine("! HATA: Boş ifade girildi.");
-                Logger("! HATA: Boş ifade girildi.", "Evaluate()", input);
+                Console.WriteLine("! HATA: Boş ifade girildi. (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)");
+                Logger("! HATA: Boş ifade girildi. (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)", "Evaluate()", input);
                 return;
             }
 
@@ -50,7 +50,7 @@ namespace RPN_Calculator
                     if (stack.Count < 2)
                     {
                         // Yetersiz operand sayısı
-                        errorMessages.Add("! HATA: Yetersiz sayı");
+                        errorMessages.Add("! HATA: Yetersiz sayı (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)");
                         continue;
                     }
 
@@ -60,7 +60,7 @@ namespace RPN_Calculator
                     // Sıfıra bölme kontrolü
                     if (token == "/" && b == 0)
                     {
-                        errorMessages.Add("! HATA: Sıfıra bölme hatası");
+                        errorMessages.Add("! HATA: Sıfıra bölme hatası (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)");
                         continue;
                     }
 
@@ -71,7 +71,7 @@ namespace RPN_Calculator
                 else
                 {
                     // Tanımsız operatör hatası
-                    errorMessages.Add($"! HATA: '{token}' tanımsız bir operatör");
+                    errorMessages.Add($"! HATA: '{token}' tanımsız bir operatör (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)");
                 }
             }
 
@@ -86,12 +86,12 @@ namespace RPN_Calculator
                 else if (stack.Count > 1)
                 {
                     // Fazla operand kalmış
-                    errorMessages.Add("! HATA: İşlem sonunda birden fazla değer kaldı.");
+                    errorMessages.Add("! HATA: İşlem sonunda birden fazla değer kaldı (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)");
                 }
                 else
                 {
                     // Hiç operand kalmamış
-                    errorMessages.Add("! HATA: İşlem sonunda hiç değer kalmadı.");
+                    errorMessages.Add("! HATA: İşlem sonunda hiç değer kalmadı (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)");
                 }
             }
 
@@ -109,7 +109,7 @@ namespace RPN_Calculator
         // Hataları log dosyasına yazan yardımcı metot
         public static void Logger(string message, string context = null, string input = null)
         {
-            // 'log.txt' dosyası /.../RNP_Calculator/bin/Debug dizininde bulunabilir.
+            // 'log.txt' dosyası \...\RPN_Hesap_Makinesi\bin\Debug dizininde bulunabilir.
             try
             {
                 string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");

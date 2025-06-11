@@ -1,10 +1,10 @@
-[2025-06-11 18:16:46] [Evaluate()] İfade: '3 4 #' → ! HATA: '#' tanımsız bir operatör
-[2025-06-11 18:16:52] [Evaluate()] İfade: '3 4 $ ?' → ! HATA: '$' tanımsız bir operatör
-[2025-06-11 18:16:52] [Evaluate()] İfade: '3 4 $ ?' → ! HATA: '?' tanımsız bir operatör
-[2025-06-11 18:16:55] [Evaluate()] İfade: '10 0 /' → ! HATA: Sıfıra bölme hatası
-[2025-06-11 18:16:59] [Evaluate()] İfade: '5 +' → ! HATA: Yetersiz sayı
-[2025-06-11 18:17:02] [Evaluate()] İfade: '5 + 3 *' → ! HATA: Yetersiz sayı
-[2025-06-11 18:17:09] [Evaluate()] İfade: '3 4    5 +' → ! HATA: İşlem sonunda birden fazla değer kaldı.
-[2025-06-11 18:17:11] [Evaluate()] İfade: '1 2' → ! HATA: İşlem sonunda birden fazla değer kaldı.
-[2025-06-11 18:17:12] [Evaluate()] İfade: '+' → ! HATA: Yetersiz sayı
-[2025-06-11 18:17:13] [Evaluate()] → ! HATA: Boş ifade girildi.
+[2025-06-11 18:27:36] [Evaluate()] İfade: '3 4 $' → ! HATA: '$' tanımsız bir operatör (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)
+[2025-06-11 18:27:40] [Evaluate()] İfade: '3 4 # ?' → ! HATA: '#' tanımsız bir operatör (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)
+[2025-06-11 18:27:40] [Evaluate()] İfade: '3 4 # ?' → ! HATA: '?' tanımsız bir operatör (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)
+[2025-06-11 18:27:44] [Evaluate()] İfade: '10 0 /' → ! HATA: Sıfıra bölme hatası (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)
+[2025-06-11 18:27:47] [Evaluate()] İfade: '5 +' → ! HATA: Yetersiz sayı (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)
+[2025-06-11 18:27:50] [Evaluate()] İfade: '5 + 3 *' → ! HATA: Yetersiz sayı (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)
+[2025-06-11 18:27:54] [Evaluate()] İfade: '3 4 5 +' → ! HATA: İşlem sonunda birden fazla değer kaldı (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)
+[2025-06-11 18:27:56] [Evaluate()] İfade: '1 2' → ! HATA: İşlem sonunda birden fazla değer kaldı (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)
+[2025-06-11 18:27:57] [Evaluate()] İfade: '+' → ! HATA: Yetersiz sayı (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)
+[2025-06-11 18:27:57] [Evaluate()] → ! HATA: Boş ifade girildi. (/.../RPN_Hesap_Makinesi/bin/Debug/log.txt)
