@@ -11,7 +11,7 @@ namespace RPN_Calculator
 
             Console.WriteLine("çıkmak için 'exit'\n\n\n" +
                 "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n" +
-                "=-=-=- RNP Hesap Makinesi -=-=-=\n" +
+                "=-=-=- RPN Hesap Makinesi -=-=-=\n" +
                 "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=" +
                 "\nOperatörler: \t+ \t- \t* \t/" +
                 "\nÖrnek Format: 15 7 1 1 + − / 3 * 2 1 1 + + −" +

@@ -1,1 +1,2 @@
 [2025-06-11 17:38:07] [Evaluate()] İfade: '2 0 /' → ! HATA: Sıfıra bölme hatası
+[2025-06-11 17:46:49] [Evaluate()] İfade: '5 0 /' → ! HATA: Sıfıra bölme hatası
