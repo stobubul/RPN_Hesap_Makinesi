@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{CFC3C65A-BF57-42FB-96C0-C9FAF7090688}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RNP_Calculator</RootNamespace>
-    <AssemblyName>RNP_Calculator</AssemblyName>
+    <RootNamespace>RPN_Calculator</RootNamespace>
+    <AssemblyName>RPN_Calculator</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

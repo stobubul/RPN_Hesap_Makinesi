@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RNP_Calculator
+namespace RPN_Calculator
 {
     // Program sınıfı uygulamanın başlangıç noktasıdır.
     class Program

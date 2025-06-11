@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RNP_Calculator
+namespace RPN_Calculator
 {
     internal class Adder : Operator
     {

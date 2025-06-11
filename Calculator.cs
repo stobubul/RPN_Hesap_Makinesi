@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace RNP_Calculator
+namespace RPN_Calculator
 {
     // Calculator sınıfı RPN hesaplamalarını yürütür.
     internal class Calculator

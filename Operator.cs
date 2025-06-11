@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RNP_Calculator
+namespace RPN_Calculator
 {
     // Tüm operatörlerin türediği soyut sınıf.
     // Her operatör a ve b operandlarını alıp double döner.

@@ -6,3 +6,10 @@ C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\obj\Debug\RNP_Calculator.csproj.C
 C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\obj\Debug\RNP_Calculator.exe
 C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\obj\Debug\RNP_Calculator.pdb
 C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\obj\Debug\RNP_Calculator.exe.config
+C:\Users\tahak\Desktop\2023280117\RPN_Hesap_Makinesi\bin\Debug\RNP_Calculator.exe.config
+C:\Users\tahak\Desktop\2023280117\RPN_Hesap_Makinesi\bin\Debug\RNP_Calculator.exe
+C:\Users\tahak\Desktop\2023280117\RPN_Hesap_Makinesi\bin\Debug\RNP_Calculator.pdb
+C:\Users\tahak\Desktop\2023280117\RPN_Hesap_Makinesi\obj\Debug\RPN_Calculator.csproj.AssemblyReference.cache
+C:\Users\tahak\Desktop\2023280117\RPN_Hesap_Makinesi\obj\Debug\RPN_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tahak\Desktop\2023280117\RPN_Hesap_Makinesi\obj\Debug\RNP_Calculator.exe
+C:\Users\tahak\Desktop\2023280117\RPN_Hesap_Makinesi\obj\Debug\RNP_Calculator.pdb

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RNP_Calculator
+namespace RPN_Calculator
 {
     // Sayıları temsil eden sınıf.
     // Stack'e push edilen her sayı bir Operand nesnesidir.
