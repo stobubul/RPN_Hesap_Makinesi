@@ -1,0 +1,8 @@
+C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\bin\Debug\RNP_Calculator.exe.config
+C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\bin\Debug\RNP_Calculator.exe
+C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\bin\Debug\RNP_Calculator.pdb
+C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\obj\Debug\RNP_Calculator.csproj.AssemblyReference.cache
+C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\obj\Debug\RNP_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\obj\Debug\RNP_Calculator.exe
+C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\obj\Debug\RNP_Calculator.pdb
+C:\Users\tahak\Desktop\CS_NYP_2\RNP_Calculator\obj\Debug\RNP_Calculator.exe.config
