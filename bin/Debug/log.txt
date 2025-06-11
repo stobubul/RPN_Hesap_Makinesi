@@ -1,2 +1,12 @@
 [2025-06-11 17:38:07] [Evaluate()] İfade: '2 0 /' → ! HATA: Sıfıra bölme hatası
 [2025-06-11 17:46:49] [Evaluate()] İfade: '5 0 /' → ! HATA: Sıfıra bölme hatası
+[2025-06-11 18:07:39] [Evaluate()] İfade: '3 4 $' → ! HATA: '$' tanımsız bir operatör
+[2025-06-11 18:07:44] [Evaluate()] İfade: '3 4 # ?' → ! HATA: '#' tanımsız bir operatör
+[2025-06-11 18:07:44] [Evaluate()] İfade: '3 4 # ?' → ! HATA: '?' tanımsız bir operatör
+[2025-06-11 18:07:57] [Evaluate()] İfade: '10 0 /' → ! HATA: Sıfıra bölme hatası
+[2025-06-11 18:08:09] [Evaluate()] İfade: '5 +' → ! HATA: Yetersiz sayı
+[2025-06-11 18:08:27] [Evaluate()] İfade: '5 + 3 *' → ! HATA: Yetersiz sayı
+[2025-06-11 18:08:51] [Evaluate()] İfade: '3 4 5 +' → ! HATA: İşlem sonunda birden fazla değer kaldı.
+[2025-06-11 18:09:01] [Evaluate()] İfade: '1 2 ' → ! HATA: İşlem sonunda birden fazla değer kaldı.
+[2025-06-11 18:09:20] [Evaluate()] İfade: '*' → ! HATA: Yetersiz sayı
+[2025-06-11 18:09:43] [Evaluate()] → ! HATA: Boş ifade girildi.
